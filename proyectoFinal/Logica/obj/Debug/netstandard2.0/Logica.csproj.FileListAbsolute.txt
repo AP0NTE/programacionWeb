@@ -1,0 +1,14 @@
+C:\Users\DESARROLLADOR\Downloads\CMUCCHE\PROGRAMACIONWEB\webpulsacionesdatabase\Logica\bin\Debug\netstandard2.0\Logica.deps.json
+C:\Users\DESARROLLADOR\Downloads\CMUCCHE\PROGRAMACIONWEB\webpulsacionesdatabase\Logica\bin\Debug\netstandard2.0\Logica.dll
+C:\Users\DESARROLLADOR\Downloads\CMUCCHE\PROGRAMACIONWEB\webpulsacionesdatabase\Logica\bin\Debug\netstandard2.0\Logica.pdb
+C:\Users\DESARROLLADOR\Downloads\CMUCCHE\PROGRAMACIONWEB\webpulsacionesdatabase\Logica\bin\Debug\netstandard2.0\Datos.dll
+C:\Users\DESARROLLADOR\Downloads\CMUCCHE\PROGRAMACIONWEB\webpulsacionesdatabase\Logica\bin\Debug\netstandard2.0\Entity.dll
+C:\Users\DESARROLLADOR\Downloads\CMUCCHE\PROGRAMACIONWEB\webpulsacionesdatabase\Logica\bin\Debug\netstandard2.0\Datos.pdb
+C:\Users\DESARROLLADOR\Downloads\CMUCCHE\PROGRAMACIONWEB\webpulsacionesdatabase\Logica\bin\Debug\netstandard2.0\Entity.pdb
+C:\Users\DESARROLLADOR\Downloads\CMUCCHE\PROGRAMACIONWEB\webpulsacionesdatabase\Logica\obj\Debug\netstandard2.0\Logica.csprojAssemblyReference.cache
+C:\Users\DESARROLLADOR\Downloads\CMUCCHE\PROGRAMACIONWEB\webpulsacionesdatabase\Logica\obj\Debug\netstandard2.0\Logica.AssemblyInfoInputs.cache
+C:\Users\DESARROLLADOR\Downloads\CMUCCHE\PROGRAMACIONWEB\webpulsacionesdatabase\Logica\obj\Debug\netstandard2.0\Logica.AssemblyInfo.cs
+C:\Users\DESARROLLADOR\Downloads\CMUCCHE\PROGRAMACIONWEB\webpulsacionesdatabase\Logica\obj\Debug\netstandard2.0\Logica.csproj.CoreCompileInputs.cache
+C:\Users\DESARROLLADOR\Downloads\CMUCCHE\PROGRAMACIONWEB\webpulsacionesdatabase\Logica\obj\Debug\netstandard2.0\Logica.csproj.CopyComplete
+C:\Users\DESARROLLADOR\Downloads\CMUCCHE\PROGRAMACIONWEB\webpulsacionesdatabase\Logica\obj\Debug\netstandard2.0\Logica.dll
+C:\Users\DESARROLLADOR\Downloads\CMUCCHE\PROGRAMACIONWEB\webpulsacionesdatabase\Logica\obj\Debug\netstandard2.0\Logica.pdb
